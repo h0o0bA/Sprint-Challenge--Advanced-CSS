@@ -207,6 +207,9 @@ p {
   color: #454A59;
   font-size: 1.6rem;
 }
+.navigation-container nav a:hover {
+  transform: scale(1.2);
+}
 footer {
   color: #22283B;
   background: #f4f4f4;
